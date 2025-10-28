@@ -2,14 +2,13 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.wildcreator.top/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘（无了）",
+    "name": "网盘",
     "link": "https://disk.wildcreator.top/"
   },
- 
   {
     "icon": "Compass",
     "name": "起始页",
@@ -17,8 +16,8 @@
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "友链1",
+    "link": "https://sr-studio.cn"
   },
   {
     "icon": "Fire",
@@ -27,7 +26,7 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "Ourevents",
-    "link": "https://ourevents.wildcreator.top./"
+    "name": "Status",
+    "link": "https://status.wildcreator.top/"
   }
 ]
