@@ -6,7 +6,7 @@
 
 <p>
 <strong><h2>無名の主页</h2></strong>
-简单的小主页，原来的看够了，重新弄了一个
+简单的小主页，原来的看够了，重新弄了一
 </p>
 
 ![無名の主页](/screenshots/main.jpg)
@@ -246,3 +246,4 @@ if (type == 0) {
 [![Star History Chart](https://api.star-history.com/svg?repos=imsyy/home&type=Date)](https://star-history.com/#imsyy/home&Date)
 
 <a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=blog.imsyy.top"><img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen"></a>&nbsp;<a title="CDN" target="_blank" href="https://cdnjs.com/"><img src="https://img.shields.io/badge/CDN-Cloudflare-blue"></a>&nbsp;<a title="Copyright" target="_blank" href="https://imsyy.top/"><img src="https://img.shields.io/badge/Copyright%20%C2%A9%202020--2023-%E7%84%A1%E5%90%8D-red"></a>
+
