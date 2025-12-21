@@ -16,17 +16,27 @@
   },
   {
     "icon": "Book",
-    "name": "友链1",
-    "link": "https://sr-studio.cn"
+    "name": "小源151",
+    "link": "https://www.xiaoyuan151.com"
+  },
+  {
+    "icon": "Book",
+    "name": "wyf9的blog",
+    "link": "https://wyf9.top/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "智教联盟",
+    "link": "https://smart-teach.cn/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
   },
-  {
+{
     "icon": "LaptopCode",
-    "name": "Status",
-    "link": "https://status.wildcreator.top/"
-  }
+    "name": "Classisland",
+    "link": "https://www.classisland.tech/"
+  },
 ]
